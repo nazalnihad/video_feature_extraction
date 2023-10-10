@@ -1,2 +1,2 @@
 # video_feature_extraction
-colab notebook for feature extraction as frames from given video file
+colab notebook for image extraction as frame by frame from given video file 
